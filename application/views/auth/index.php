@@ -1,0 +1,1 @@
+<h1 class="mx-auto">Selamat datang <?= $nama; ?></h1>
